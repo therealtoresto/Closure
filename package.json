@@ -1,0 +1,26 @@
+{
+  "name": "closure",
+  "version": "1.0.0",
+  "description": "closure examples",
+  "main": "none",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therealtoresto/Closure.git"
+  },
+  "keywords": [
+    "closure"
+  ],
+  "author": "therealtoresto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/therealtoresto/Closure/issues"
+  },
+  "homepage": "https://github.com/therealtoresto/Closure#readme",
+  "devDependencies": {
+    "eslint": "^7.21.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
